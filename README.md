@@ -54,6 +54,8 @@ An ambient social intelligence app that nudges friend groups when their schedule
 
 Before teaching myself to code, I spent nearly a decade in career coaching and workforce development — helping people identify skills, navigate transitions, and land jobs. That background shapes how I build: I care about real people using real software, not just technical elegance.
 
+Music has been an equally defining part of my life. I studied Music Industry Arts and Radio & Television at Fanshawe College, followed by Entertainment Business Management at Metalworks Institute — one of Canada's top music production schools. I'm a performer and producer, and I've worked inside the music industry as a booking agent, negotiating shows and managing artist logistics across Canada. Share Music didn't come from nowhere: it came from genuinely loving music and wanting a better way to share it.
+
 ---
 
 ## Currently
