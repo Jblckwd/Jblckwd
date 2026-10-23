@@ -1,6 +1,6 @@
 # Hey, I'm Jeff 👋
 
-I'm a self-taught developer who builds and ships consumer apps — handling everything from architecture and code to backend infrastructure and marketing. Currently looking for a role in **AI development or automation**.
+I'm a self-taught developer who builds and ships consumer apps — handling everything from architecture and code to backend infrastructure and marketing. 
 
 ---
 
